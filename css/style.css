@@ -1,0 +1,50 @@
+
+.red{
+	background: red;
+}
+
+.blue{
+	background: blue;
+}
+
+.gray{
+	background: rgb(203,203,203);
+}
+
+.NYC{
+	background: rgb(255,255,204);
+	width: 450px;
+	height: 120px;
+	margin: 55px;
+	font-size: 45px;
+	text-align: center;
+
+
+}
+
+.Karachi{
+	background: rgb(255,255,204);
+	width: 450px;
+	height: 120px;
+	margin: 55px;
+	font-size: 45px;
+	text-align: center;
+}
+
+.Barca{
+	background: rgb(255,255,204);
+	width: 450px;
+	height: 120px;
+	margin: 10px;
+	font-size: 45px;
+	text-align: center;
+}
+
+#barcaWeather{
+	display: none;
+}
+
+#karachiWeather{
+	display: none;
+}
+
